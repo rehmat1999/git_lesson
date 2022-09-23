@@ -1,7 +1,7 @@
 getwd()
 
-x <- rnorm(100)
-y <- rnorm(100)
+x <- rnorm(500)
+y <- rnorm(500)
 
 #import something
 
