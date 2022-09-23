@@ -1,0 +1,15 @@
+getwd()
+
+<<<<<<< HEAD
+x <- rnorm(500)
+y <- rnorm(500)
+=======
+x <- rnorm(100)
+y <- rnorm(300)
+>>>>>>> crazy-idea
+
+#import something
+
+#new feature
+
+#crazy ideaaa
